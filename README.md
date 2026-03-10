@@ -57,7 +57,7 @@ The platform **does NOT cover**:
 
 ---
 
-## 🧠 Key Features
+##  Key Features
 
 ### 1️ AI-Powered Risk Assessment
 
